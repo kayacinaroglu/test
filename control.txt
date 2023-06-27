@@ -1,0 +1,20 @@
+Task 1:
+- ask for number of hours
+- multiply value by 60
+- return new value
+
+Task 2:
+- hours or minutes?
+- if hours
+    multiply input by 60
+    return new value
+- elif minutes
+    divide input by 60
+    return new value
+
+Task 3:
+- input word
+- counter = 0
+- for letter in word:
+    add one to counter
+- return counter
